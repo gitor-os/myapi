@@ -1,0 +1,1 @@
+package org.gitor.admin.coderHub.controller;import org.springframework.web.bind.annotation.RequestMapping;import org.springframework.web.bind.annotation.RestController;/** * @author : liuwenlong * @date : 2018/5/23 17:26 */@RestController@RequestMapping(value = "/admin")public class IndexController {}
