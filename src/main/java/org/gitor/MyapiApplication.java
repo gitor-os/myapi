@@ -1,4 +1,4 @@
-package api.javazs.com.myapi;
+package org.gitor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

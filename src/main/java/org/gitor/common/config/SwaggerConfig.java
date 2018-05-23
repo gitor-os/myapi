@@ -1,4 +1,4 @@
-package api.javazs.com.myapi.apidoc.config;
+package org.gitor.common.config;
 
 import io.swagger.annotations.ApiOperation;
 import org.springframework.context.annotation.Bean;

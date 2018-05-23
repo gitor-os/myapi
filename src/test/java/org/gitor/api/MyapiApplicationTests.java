@@ -1,4 +1,4 @@
-package api.javazs.com.myapi;
+package org.gitor.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
