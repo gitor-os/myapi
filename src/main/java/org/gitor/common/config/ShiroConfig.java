@@ -1,0 +1,1 @@
+package org.gitor.common.config;/** * shiro 配置文件 * @author : liuwenlong * @date : 2018/5/23 17:38 */public class ShiroConfig {}
