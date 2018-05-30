@@ -1,1 +1,1 @@
-var headerTemplate = '<div> header HTML 代码</div>'Vue.component('my-header', {    template: headerTemplate,    data: function(){      return {a:'aaa'};    },    methods: {}    // ...})
+var headerTemplate = '<div>sss</div>';Vue.component('my-header', {    template: headerTemplate,    data: function(){      return {a:'aaa'};    },    methods: {}    // ...})
